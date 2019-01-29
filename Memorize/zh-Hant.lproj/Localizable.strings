@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  Memorize
+
+  Created by 华侨 on 3/16/15.
+  Copyright (c) 2015 HuaQiao. All rights reserved.
+*/
+
+/* No comment provided by engineer. */
+"Score: %li" = "得分： %li";
+
+/* No comment provided by engineer. */
+"I just created a new RECORD of %li points in this new game! Dare you challenge me?" = "我剛剛在這個游戲裡破紀錄得了%li分！你敢來挑戰嗎？";
+
+/* No comment provided by engineer. */
+"Facebook" = "Facebook";
+
+/* No comment provided by engineer. */
+"Not Logged In" = "未登錄";
+
+/* No comment provided by engineer. */
+"OK" = "好";
+
+/* No comment provided by engineer. */
+"Oops! It seems you haven't logged in your %@ account yet, just launch Setting App and enter your %@ username and password to share your achievement" = "哎呀！你好像還沒有登陸%@，打開設置然後輸入你的%@賬戶和密碼就可以分享你的成就了";
+
+/* No comment provided by engineer. */
+"Tencent Weibo" = "騰訊微博";
+
+/* No comment provided by engineer. */
+"Twitter" = "Twitter";
+
+/* No comment provided by engineer. */
+"Weibo" = "微博";
